@@ -1,0 +1,20 @@
+.sub-main {
+  float: left;
+  margin: 10px;
+}
+.sub-main:hover {
+  background: rgb(222, 229, 244);
+}
+.clear {
+  clear: both;
+}
+img{
+  width: 200px;
+  height: 200px;
+}
+img:hover {
+  opacity: 0.5;
+}
+.rating-bar {
+
+}

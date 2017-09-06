@@ -1,0 +1,19 @@
+.rating-circle {
+  display: inline-block;
+  margin: 0em;
+  margin-top: .2em;
+  padding: .01em;
+}
+
+ .rating-hover {
+   color: #7ba4d0;
+}
+
+.rating-chosen {
+   color: #605bcc;
+}
+
+#rating-container {
+  padding: 0;
+  margin: 0;
+}
