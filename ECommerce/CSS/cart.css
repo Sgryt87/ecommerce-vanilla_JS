@@ -1,0 +1,9 @@
+.deleteItemCart {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.deleteItemCart:hover {
+  color: #b0a0de;
+  cursor: pointer;
+}
